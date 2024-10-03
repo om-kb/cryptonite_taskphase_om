@@ -1,4 +1,4 @@
-# Module 1: Hello Hacker
+# Module 1: Hello Hackers
 
 ## Challenge-1:Introduction to commands
 simply opened the terminal and entered in the command 'hello' for the flag
