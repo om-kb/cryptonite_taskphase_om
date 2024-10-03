@@ -78,7 +78,7 @@ flag:pwn.college{YzzGHrnOXi5bpRHJjm189EWE9-_.dFTN1QDLwEjN0czW}
 ##
 
 ## Challenge 9:Home Sweet Home
-ran /challenge/run with an argument '~/a'. the ~ basically means that its referencing to the home directory maning ~/a is now an absolute path for the file '/a'
+ran /challenge/run with an argument '~/a'. the ~ basically means that its referencing to the home directory meaning ~/a is now an absolute path for the file '/a'
 ```
 
 flag:pwn.college{AUTfWTtWg0I2CTL-K11lmBjdvPM.dNzM4QDLwEjN0czW}
