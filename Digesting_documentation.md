@@ -37,7 +37,7 @@ flag:pwn.college{0MJ9voJ-301p-XeW4Aa26pcNBoe.dVTM4QDLwEjN0czW}
 ##
 
 ## Challenge 5:Searching for manuals
-learned the multiple ways of using man,This particular question required the usage of man -k .string which lets us find whatever string we are searching for. If we type in '.' before anything we type the '.'  is considered as anything.
+learned the multiple ways of using man,This particular question required the usage of man -k string which lets us find whatever string we are searching for. If we type in '.' before anything we type the '.'  is considered as anything.
 
 Ran man -k .challenge which gave me the changed manpage of /challenge/challenge.
 
