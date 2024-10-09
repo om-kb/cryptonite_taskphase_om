@@ -3,7 +3,7 @@
 ## Challenge 1:Redirecting Output
 Learned how to redirect output to any file using >. The syntax is output > file.
 
-For this challenge had to redirect PWN to COLLEGE fr flag so did echo PWN > COLLEGE
+For this challenge had to redirect PWN to COLLEGE for the flag so did echo PWN > COLLEGE
 ```
 flag:pwn.college{od94xTT3KHVBRuRn_fED_KqSEpU.dRjN1QDLwEjN0czW}
 ```
@@ -98,7 +98,7 @@ flag:pwn.college{UAMFYENhgwOm-aWTo0mJzhaSrgy.dBDO0UDLwEjN0czW}
 ##
 
 ## Challenge 11:Slit-piping stderr and stdout
-For this challenge i had to connect the output of /challenge/hack to /challenge/input and the errors to /challenge/the using process substitution
+For this challenge I had to connect the output of /challenge/hack to /challenge/input and the errors to /challenge/the using process substitution
 ```
 flag:pwn.college{Y13GNYZ47OpfdlShL8kqcokAt94.dFDNwYDLwEjN0czW}
 ```
