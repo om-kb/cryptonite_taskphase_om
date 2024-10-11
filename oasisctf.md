@@ -4,7 +4,7 @@
 We had to enter the flag given,ie, OASIS{h411!d4y_says_w41c0m3_t0_7h3_04515}
 ##
 
-## cHALLENGE 2
+## Challenge 2
 had to join the discord server and find the flag,found it in rules
 ```
 flag:OASIS{0H_SN4P_Y0U_F0UND_M3_1N_7H3_D3SCR1P710N}
@@ -60,6 +60,8 @@ OASIS{S1L3N7_V1G3N3R3}
 ```
 ##
 
+(referenced from the official answers provided in the discord server)
+#
 ## Challenge 10
 Given in the description is ciphertext J5AVGSKTPNWDA53LGN4V65BQGBPXGMDGORPXG4BQNMZW4XZTNB6Q====.This is in base32. Used Cyberchef to get the flag.
 ```
