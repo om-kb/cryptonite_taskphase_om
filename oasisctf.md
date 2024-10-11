@@ -60,11 +60,12 @@ OASIS{S1L3N7_V1G3N3R3}
 ```
 ##
 
-(referenced from the official answers provided in the discord server)
-#
 ## Challenge 10
 Given in the description is ciphertext J5AVGSKTPNWDA53LGN4V65BQGBPXGMDGORPXG4BQNMZW4XZTNB6Q====.This is in base32. Used Cyberchef to get the flag.
 ```
 flag:OASIS{l0wk3y_t00_s0ft_sp0k3n_3h}
 ```
 ##
+
+(referenced from the official answers provided in the discord server)
+#
